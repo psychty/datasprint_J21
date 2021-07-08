@@ -1,0 +1,143 @@
+﻿Type,Condition,Primary_secondary_type,Code,MedCode,Term,Description,Source
+Disease,Hypertension,Primary care,401,,BENIGN HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,402,,HYPERTENSIVE HEART DISEASE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403,,RENAL HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4000,,MALIGNANT HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4003,,HYPERTENSIVE NEPHROPATHY,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4120,,INSUFFICIENCY CORONARY HYPERTENSIVE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4130,,ANGINA PECTORIS WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4140,,ASYMPTOMATIC HYPERTENSIVE ISCHAEMIC HEAR,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4300,,SUBARACHNOID HAEMORRHAGE WITH HYPERTENSI,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4310,,HAEMORRHAGE INTRACEREBRAL WITH HYPERTENS,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4330,,CEREBRAL THROMBOSIS WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4340,,EMBOLISM CEREBRAL WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4370,,CEREBRAL ISCHAEMIA HYPERTENSIVE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4380,,CEREBROVASCULAR DISEASE WITH HYPERTENSIO,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,6146200,32976,Hypertension induced by oral contraceptive pill,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Secondary care,59621000,,Essential hypertension (disorder),Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,14A2.00,2666,H/O: hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,3053HT,,NEUROGENIC HYPERTENSION (SECONDARY),Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4003AA,,HYPERTENSIVE RENAL DISEASE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 A,,HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 AC,,HYPERTENSION ACCELERATED,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 AR,,HYPERTENSION ARTERIOSCLEROTIC,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 AT,,HYPERTENSION ATHEROSCLEROTIC,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 B,,RETINOPATHY HYPERTENSIVE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 BE,,RETINOPATHY HYPERTENSIVE EXUDATES,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 BH,,RETINOPATHY HYPERTENSIVE HAEMORRHAGE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 BM,,HYPERTENSION ON TREATMENT,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 BP,,RETINOPATHY HYPERTENSIVE PAPILLOEDEMA,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 C,,HYPERTENSION ESSENTIAL,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 DC,,HYPERTENSION DIASTOLIC,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 E,,HYPERTENSION ARTERIAL,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 EL,,HYPERTENSION ARTERIAL SYSTEMIC,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 LB,,HYPERTENSION LABILE INTERMITTENT,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 NC,,HYPERTENSION NECROTIZING STAGES,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 P,,HYPERTENSION ARTERIAL PRIMARY,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 PA,,HYPERTENSION PRIMARY,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 R,,HYPERTENSION CRISIS,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 S,,HYPERTENSION SYSTOLIC,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,401 T,,THROMBOSIS HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,402 C,,HYPERTENSION CONGESTIVE HEART FAILURE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,402 MF,,MYOCARDIAL FIBROSIS WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,402 VH,,VENTRICULAR HYPERTROPHY HYPERTENSIVE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 AA,,RENAL HYPERTENSIVE DISEASE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 AH,,RENOVASCULAR HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 M,,NEPHROPATHY MALIGNANT HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 NC,,HYPERTENSION IMPAIRED RENAL FUNCTION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 NF,,HYPERTENSION RENAL INSUFFICIENCY,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 NG,,HYPERTENSIVE GLOMERULOSCLEROSIS,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,403 NH,,NEPHROSCLEROSIS HYPERTENSIVE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4100N,,MYOCARDIAL INFARCT WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4100NA,,MYOCARDIAL INFARCT ACUTE WITH HYPERTENSI,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4100T,,THROMBOSIS CORONARY WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4120A,,ISCHAEMIC HEART DISEASE HYPERTENSIVE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4120BD,,SYNDROME DRESSLER'S WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4120CA,,CORONARY ARTERY DISEASE WITH HYPERTENSIO,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4120M,,MYOCARDIAL ISCHAEMIA WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4130E,,ANGINA EFFORT WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4340CR,,EMBOLISM INTRACRANIAL WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4360A,,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4360B,,STROKE WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4360D,,HYPERTENSIVE ENCEPHALOPATHY,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4380HP,,HEMIPLEGIA WITH HYPERTENSION,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,4419H,,HYPERTENSION ANEURYSM AORTA,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,662O.00,,On treatment for hypertension,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,791 HP,,HYPERTENSIVE HEADACHE,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,8B26.00,,Antihypertensive therapy,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,8BL0.00,,Patient on maximal tolerated antihypertensive therapy,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,8CR4.00,,Hypertension clinical management plan,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,F404200,37086,Blind hypertensive eye,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,F421300,6702,Hypertensive retinopathy,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G2...00,204,Hypertensive disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G2...11,8732,BP - hypertensive disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G20..00,799,Essential hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G20..11,,High blood pressure,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,G200.00,15377,Malignant essential hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G200.00,,Malignant essential hypertension,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,G201.00,,Benign essential hypertension,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,G202.00,4372,Systolic hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G202.00,,Systolic hypertension,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,G203.00,83473,Diastolic hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G20z.00,10818,Essential hypertension NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G20z.11,3712,Hypertension NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G21..00,16292,Hypertensive heart disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G210.00,50157,Malignant hypertensive heart disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G210000,95334,Malignant hypertensive heart disease without CCF,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G210100,72668,Malignant hypertensive heart disease with CCF,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G210z00,,Malignant hypertensive heart disease NOS,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,G21z.00,31464,Hypertensive heart disease NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G21z000,61166,Hypertensive heart disease NOS without CCF,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G21z011,8857,Cardiomegaly - hypertensive,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G21z100,62718,Hypertensive heart disease NOS with CCF,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G21zz00,16173,Hypertensive heart disease NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G22..00,4668,Hypertensive renal disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G220.00,39649,Malignant hypertensive renal disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G222.00,32423,Hypertensive renal disease with renal failure,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G22z.00,15106,Hypertensive renal disease NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G22z.11,29310,Renal hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G23..00,63466,Hypertensive heart and renal disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G230.00,67232,Malignant hypertensive heart and renal disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G232.00,21837,Hypertensive heart&renal dis wth (congestive) heart failure,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G233.00,28684,Hypertensive heart and renal disease with renal failure,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G234.00,57987,Hyperten heart&renal dis+both(congestv)heart and renal fail,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G23z.00,68659,Hypertensive heart and renal disease NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G24..00,7329,Secondary hypertension,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G240.00,31755,Secondary malignant hypertension,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G240000,59383,Secondary malignant renovascular hypertension,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G240z00,73293,Secondary malignant hypertension NOS,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G244.00,34744,Hypertension secondary to endocrine disorders,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G24z.00,16059,Secondary hypertension NOS,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G24z000,31387,Secondary renovascular hypertension NOS,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G24z100,31341,Hypertension secondary to drug,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G24zz00,42229,Secondary hypertension NOS,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G2y..00,18765,Other specified hypertensive disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G2z..00,7057,Hypertensive disease NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G672.00,3979,Hypertensive encephalopathy,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,G672.11,31816,Hypertensive crisis,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,Gyu2.00,69753,[X]Hypertensive diseases,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,Gyu2000,,[X]Other secondary hypertension,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,Gyu2100,97533,[X]Hypertension secondary to other renal disorders,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Secondary care,I10,,Essential (primary) hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Secondary care,I11,,Hypertensive heart disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Secondary care,I12,,Hypertensive renal disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Secondary care,I13,,Hypertensive heart and renal disease,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Secondary care,I15,,Secondary hypertension,Secondary hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L121.00,,Renal hypertension in pregnancy/childbirth/puerperium,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L121000,,Renal hypertension in pregnancy/childbirth/puerp unspecified,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L121100,,Renal hypertension in pregnancy/childbirth/puerp - delivered,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L121200,,Renal hypertension in preg/childb/puerp -deliv with p/n comp,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L121300,,Renal hypertension in preg/childbirth/puerp - not delivered,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L121400,,Renal hypertension in preg/childb/puerp + p/n complication,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L121z00,,Renal hypertension in pregnancy/childbirth/puerperium NOS,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L122.00,66567,Other pre-existing hypertension in preg/childbirth/puerp,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L122000,73586,Other pre-existing hypertension in preg/childb/puerp unspec,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L122100,72030,Other pre-existing hypertension in preg/childb/puerp - deliv,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L122300,96743,Other pre-exist hypertension in preg/childb/puerp-not deliv,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L122400,,Other pre-exist hypertension in preg/childb/puerp + p/n comp,Hypertension,https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/180/
+Disease,Hypertension,Primary care,L122z00,62432,Other pre-existing hypertension in preg/childb/puerp NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L127.00,43664,Pre-eclampsia or eclampsia with pre-existing hypertension,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L127z00,93055,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L128.00,44549,Pre-exist hypertension compl preg childbirth and puerperium,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L128000,60655,Pre-exist hyperten heart dis compl preg childbth+puerperium,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Hypertension,Primary care,L128200,52621,Pre-exist 2ndry hypertens comp preg childbth and puerperium,Hypertension,https://portal.caliberresearch.org/disease-or-syndrome
