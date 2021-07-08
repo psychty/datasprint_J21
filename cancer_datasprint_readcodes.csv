@@ -1,0 +1,144 @@
+Type,Condition,Primary_secondary_type,Code,MedCode,Term,Description,Source
+Disease,Breast cancer,Primary care,B340000,23380,Malignant neoplasm of nipple of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B340100,64686,Malignant neoplasm of areola of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B340.00,26853,Malignant neoplasm of nipple and areola of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B340z00,59831,Malignant neoplasm of nipple or areola of female breast NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B341.00,31546,Malignant neoplasm of central part of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B342.00,29826,Malignant neoplasm of upper-inner quadrant of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B343.00,45222,Malignant neoplasm of lower-inner quadrant of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B344.00,23399,Malignant neoplasm of upper-outer quadrant of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B345.00,42070,Malignant neoplasm of lower-outer quadrant of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B346.00,20685,Malignant neoplasm of axillary tail of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B347.00,49148,"Malignant neoplasm, overlapping lesion of breast",Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B34..00,3968,Malignant neoplasm of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B34..11,348,Ca female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B34y000,95057,Malignant neoplasm of ectopic site of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B34y.00,56715,Malignant neoplasm of other site of female breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B34yz00,38475,Malignant neoplasm of other site of female breast NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B34z.00,9470,Malignant neoplasm of female breast NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B350000,68480,Malignant neoplasm of nipple of male breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B350100,67884,Malignant neoplasm of areola of male breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B350.00,54494,Malignant neoplasm of nipple and areola of male breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B35..00,19423,Malignant neoplasm of male breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B35z000,95323,Malignant neoplasm of ectopic site of male breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B35z.00,54202,Malignant neoplasm of other site of male breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B35zz00,48809,Malignant neoplasm of male breast NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B36..00,105488,Local recurrence of malignant tumour of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B830000,10387,Lobular carcinoma in situ of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B830100,18694,Intraductal carcinoma in situ of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,B830.00,7833,Carcinoma in situ of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB91.00,8351,[M]Infiltrating duct carcinoma,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB91.11,21833,[M]Duct carcinoma NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB91000,30189,[M]Intraductal papillary adenocarcinoma with invasion,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB96.00,102593,[M]Noninfiltrating intraductal papillary adenocarcinoma,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB91100,39760,[M]Infiltrating duct and lobular carcinoma,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB92.00,62871,"[M]Comedocarcinoma, noninfiltrating",Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB93.00,58131,[M]Comedocarcinoma NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB94.00,40359,[M]Juvenile breast carcinoma,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB94.11,67701,[M]Secretory breast carcinoma,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB9J.00,12300,"[M]Paget's disease, mammary",Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB9J.11,60803,"[M]Paget's disease, breast",Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB9K000,12480,[M]Paget's disease and intraductal carcinoma of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB9K.00,42542,[M]Paget's disease and infiltrating breast duct carcinoma,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,BB9M.00,3969,[M]Intracystic carcinoma NOS,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,Byu6.00,12499,[X]Malignant neoplasm of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,ByuFG00,53803,[X]Other carcinoma in situ of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Primary care,ZV10300,16639,[V]Personal history of malignant neoplasm of breast,History of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Secondary care,C50,,Malignant neoplasm of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Breast cancer,Secondary care,D05,,Carcinoma in situ of breast,Diagnosis of Primary Malignancy_Breast,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B574000,55946,Secondary malignant neoplasm of duodenum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B574100,110433,Secondary malignant neoplasm of jejunum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B574200,99511,Secondary malignant neoplasm of ileum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B574.00,64680,Secondary malignant neoplasm of small intestine and duodenum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B574z00,70026,Secondary malig neop of small intestine or duodenum NOS,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B575000,28727,Secondary malignant neoplasm of colon,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B575100,62909,Secondary malignant neoplasm of rectum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B575.00,44529,Secondary malignant neoplasm of large intestine and rectum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B575z00,36200,Secondary malig neop of large intestine or rectum NOS,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,C78.4,,Secondary malignant neoplasm of small intestine,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,C78.5,,Secondary malignant neoplasm of large intestine and rectum,Diagnosis of Secondary Malignancy_Colorectal,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B130.00,9088,Malignant neoplasm of hepatic flexure of colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B131.00,6935,Malignant neoplasm of transverse colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B132.00,10864,Malignant neoplasm of descending colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B133.00,2815,Malignant neoplasm of sigmoid colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B134.00,3811,Malignant neoplasm of caecum,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B134.11,22163,Carcinoma of caecum,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B135.00,18632,Malignant neoplasm of appendix,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B136.00,10946,Malignant neoplasm of ascending colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B137.00,18619,Malignant neoplasm of splenic flexure of colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B138.00,93478,"Malignant neoplasm, overlapping lesion of colon",Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B139.00,101700,Hereditary nonpolyposis colon cancer,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B13..00,1220,Malignant neoplasm of colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B13y.00,48231,Malignant neoplasm of other specified sites of colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B13z.00,28163,Malignant neoplasm of colon NOS,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B13z.11,9118,Colonic cancer,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B140.00,27855,Malignant neoplasm of rectosigmoid junction,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B141.00,1800,Malignant neoplasm of rectum,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B141.11,7219,Carcinoma of rectum,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B141.12,5901,Rectal carcinoma,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B142000,46159,Malignant neoplasm of cloacogenic zone,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B142.00,24370,Malignant neoplasm of anal canal,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B142.11,9491,Anal carcinoma,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B143.00,27897,Malignant neoplasm of anus unspecified,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B14..00,35357,"Malignant neoplasm of rectum, rectosigmoid junction and anus",Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B14y.00,55659,"Malig neop other site rectum, rectosigmoid junction and anus",Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B14z.00,50974,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B1z0.11,11628,Cancer of Colorectal,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,ZV10011,68018,[V]Personal history of malignant neoplasm of anus,History of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,ZV10014,57727,[V]Personal history of malignant neoplasm of large intestine,History of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,ZV10017,62785,[V]Personal history of malignant neoplasm of rectum,History of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,C18,,Malignant neoplasm of colon,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,C19,,Malignant neoplasm of rectosigmoid junction,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,C20,,Malignant neoplasm of rectum,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,C21,,Malignant neoplasm of anus and anal canal,Diagnosis of Primary Malignancy_colorectal and anus,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,771G400,6828,Colonoscopic polypectomy,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,7722.11,8825,Open operation on rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,7722.12,6891,Open polypectomy of rectum,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,7726111,12298,Peranal excision of rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,7726112,4961,Peranal polypectomy of rectum,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,7726212,39965,Peranal destruction of rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,7731200,7359,Excision of anal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713000,29916,Benign neoplasm of hepatic flexure of colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713100,55538,Benign neoplasm of transverse colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713200,47964,Benign neoplasm of descending colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713300,27577,Benign neoplasm of sigmoid colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713400,27402,Benign neoplasm of caecum,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713500,41880,Benign neoplasm of appendix,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713600,41898,Benign neoplasm of ascending colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713700,42868,Benign neoplasm of splenic flexure of colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713900,69106,Benign neoplasm of ileocaecal valve,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713.00,15072,Benign neoplasm of colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713.11,2922,Colon polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B713z00,25999,Benign neoplasm of colon NOS,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714000,27925,Benign neoplasm of rectosigmoid junction,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714100,33345,Benign neoplasm of rectum,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714111,40656,Benign papilloma rectum,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714200,15062,Benign neoplasm of anal canal,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714300,41672,Benign neoplasm of anus NOS,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714.00,25862,Benign neoplasm of rectum and anal canal,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,B714z00,61560,Benign neoplasm of rectum or anal canal NOS,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,J570000,2700,Anal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,J570100,2207,Rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,J570.00,5975,Anal and rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,J570z00,57584,Anal and rectal polyp NOS,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,J578.00,11340,Colonic polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Primary care,J578.11,63594,Polyp of colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,D12,,"Benign neoplasm of colon, rectum, anus and anal canal","Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,K62.0,,Anal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,K62.1,,Rectal polyp,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Colorectal cancer,Secondary care,K63.5,,Polyp of colon,"Diagnosis of Benign neoplasm of colon, rectum, anus and anal canal",https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B410000,57235,Malignant neoplasm of endocervical canal,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B410100,53103,Malignant neoplasm of endocervical gland,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B410.00,48820,Malignant neoplasm of endocervix,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B410z00,50285,Malignant neoplasm of endocervix NOS,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B411.00,50297,Malignant neoplasm of exocervix,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B412.00,58094,"Malignant neoplasm, overlapping lesion of cervix uteri",Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41..00,2747,Malignant neoplasm of cervix uteri,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41..11,3230,Cervical carcinoma (uterus),Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41y000,95505,Malignant neoplasm of cervical stump,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41y100,57719,Malignant neoplasm of squamocolumnar junction of cervix,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41y.00,32955,Malignant neoplasm of other site of cervix,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41yz00,43435,Malignant neoplasm of other site of cervix NOS,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,B41z.00,28311,Malignant neoplasm of cervix uteri NOS,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Primary care,ZV10411,23936,[V]Personal history of malignant neoplasm of cervix uteri,History of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome
+Disease,Cervical cancer,Secondary care,C53,,Malignant neoplasm of cervix uteri,Diagnosis of Primary Malignancy_Cervical,https://portal.caliberresearch.org/disease-or-syndrome

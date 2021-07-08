@@ -1,0 +1,122 @@
+Type,Condition,Primary_secondary_type,Code,MedCode,Term,Description,Source
+Ethnicity,,Primary care,9S10.00,,White British,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S13.00,,White Scottish,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S14.00,,Other white British ethnic group,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i00.00,,White British - ethnic category 2001 census,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i20.00,,English - ethnic category 2001 census,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i21.00,,Scottish - ethnic category 2001 census,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i22.00,,Welsh - ethnic category 2001 census,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i23.00,,Cornish - ethnic category 2001 census,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S11.00,,White Irish,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA9.00,,Irish (NMO),White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SI..00,,Irish traveller,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i1..00,,Irish - ethnic category 2001 census,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i10.00,,White Irish - ethnic category 2001 census,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i24.00,,Northern Irish - ethnic category 2001 census,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2C.00,,Irish Traveller - ethnic category 2001 census,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S12.00,,Other white ethnic group,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAA.00,,Greek/Greek Cypriot (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAA.11,,Greek (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAA.12,,Greek Cypriot (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAB.00,,Turkish/Turkish Cypriot (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAB.11,,Turkish (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAB.12,,Turkish Cypriot (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SAC.00,,Other European (NMO),White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9T1..00,,New Zealand ethnic groups,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9T1Y.00,,Other New Zealand ethnic group,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9T1Z.00,,New Zealand ethnic group NOS,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2..00,,Other White background - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i26.00,,Cypriot (part not stated) - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i27.00,,Greek - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i28.00,,Greek Cypriot - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i29.00,,Turkish - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2A.00,,Turkish Cypriot - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2B.00,,Italian - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2D.00,,Traveller - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2E.00,,Gypsy/Romany - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2F.00,,Polish - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2G.00,,Baltic Estonian/Latvian/Lithuanian - ethn categ 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2H.00,,Commonwealth (Russian) Indep States - ethn categ 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2J.00,,Kosovan - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2K.00,,Albanian - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2L.00,,Bosnian - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2M.00,,Croatian - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2N.00,,Serbian - ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2P.00,,Other republics former Yugoslavia - ethnic categ 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2T.00,,Other White or White unspecified ethnic category 2001 census,White Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S1..00,,White,White NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i25.00,,Ulster Scots - ethnic category 2001 census,White NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2Q.00,,Mixed Irish and other White - ethnic category 2001 census,White NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2R.00,,Oth White European/European unsp/Mixed European 2001 census,White NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i2S.00,,Other mixed White - ethnic category 2001 census,White NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB5.00,,Black Caribbean and White,Mixed White and Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i3..00,,White and Black Caribbean - ethnic category 2001 census,Mixed White and Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB6.00,,Black African and White,Mixed White and Black African,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i4..00,,White and Black African - ethnic category 2001 census,Mixed White and Black African,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB2.00,,"Other ethnic, Asian/White orig",Mixed White and Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i5..00,,White and Asian - ethnic category 2001 census,Mixed White and Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S45.00,,Black E Afric Asia/Indo-Caribb,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S45.11,,Black East African Asian,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S45.12,,Black Indo-Caribbean,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S46.00,,Black Indian sub-continent,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S47.00,,Black - other Asian,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S52.00,,Other Black - Black/Asian orig,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA6.00,,E Afric Asian/Indo-Carib (NMO),Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB..00,,"Other ethnic, mixed origin",Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB3.00,,"Other ethnic, mixed white orig",Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB4.00,,"Other ethnic, other mixed orig",Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i0..00,,British or mixed British - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i6..00,,Other Mixed background - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i60.00,,Black and Asian - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i61.00,,Black and Chinese - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i63.00,,Chinese and White - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i64.00,,Asian and Chinese - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i65.00,,Other Mixed or Mixed unspecified ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA7.00,,Caribbean Asian - ethnic category 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S51.00,,Other Black - Black/White orig,Mixed NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SB1.00,,"Other ethnic, Black/White orig",Mixed NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i62.00,,Black and White - ethnic category 2001 census,Mixed NOS,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S6..00,,Indian,Indian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA7.00,,Indian sub-continent (NMO),Indian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA1.00,,Punjabi - ethnic category 2001 census,Indian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S7..00,,Pakistani,Pakistani,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA2.00,,Kashmiri - ethnic category 2001 census,Pakistani,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S8..00,,Bangladeshi,Bangladeshi,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA6.11,,East African Asian (NMO),Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA8.00,,Other Asian (NMO),Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SH..00,,Other Asian ethnic group,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i7..00,,Indian or British Indian - ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i8..00,,Pakistani or British Pakistani - ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9i9..00,,Bangladeshi or British Bangladeshi - ethn categ 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA..00,,Other Asian background - ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA3.00,,East African Asian - ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA8.00,,British Asian - ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iA9.00,,Mixed Asian - ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iAA.00,,Other Asian or Asian unspecified ethnic category 2001 census,Other Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S2..00,,Black Caribbean,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S42.00,,Black Caribbean/W.I./Guyana,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S42.11,,Black Caribbean,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S42.12,,Black West Indian,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9S42.13,,Black Guyana,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA3.00,,Caribbean I./W.I./Guyana (NMO),Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA3.11,,Caribbean Island (NMO),Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA3.12,,West Indian (NMO),Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9SA3.13,,Guyana (NMO),Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Primary care,9iB..00,,Caribbean - ethnic category 2001 census,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,A,,White - British - HES patient table ethnicity 2001 census,White British,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,B,,White - Irish - HES patient table ethnicity 2001 census,White Irish,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,C,,White - Any other White background - HES patient table ethnicity 2001 census,White Any other White background,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,D,,Mixed - White and Black Caribbean - HES patient table ethnicity 2001 census,Mixed White and Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,E,,Mixed - White and Black African - HES patient table ethnicity 2001 census,Mixed White and Black African,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,F,,Mixed - White and Asian - HES patient table ethnicity 2001 census,Mixed White and Asian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,G,,Mixed - Any other mixed background - HES patient table ethnicity 2001 census,Mixed Other,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,H,,Asian or Asian British - Indian - HES patient table ethnicity 2001 census,Asian or Asian British - Indian,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,J,,Asian or Asian British - Pakistani - HES patient table ethnicity 2001 census,Asian or Asian British - Pakistani,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,K,,Asian or Asian British - Bangladeshi - HES patient table ethnicity 2001 census,Asian or Asian British - Bangladeshi,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,L,,Asian or Asian British - Any other Asian background - HES patient table ethnicity 2001 census,Asian or Asian British - Any other Asian background,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,M,,Black or Black British - Caribbean - HES patient table ethnicity 2001 census,Black Caribbean,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,N,,Black or Black British - African - HES patient table ethnicity 2001 census,Black or Black British - African,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,P,,Black or Black British - Any other Black background - HES patient table ethnicity 2001 census,Black or Black British - Any other Black background,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,R,,Other Ethnic groups - Chinese - HES patient table ethnicity 2001 census,Other Ethnic groups - Chinese,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,S,,Other Ethnic groups - Any other ethnic group - HES patient table ethnicity 2001 census,Other Ethnic groups - Any other ethnic group,https://portal.caliberresearch.org/disease-or-syndrome
+Ethnicity,,Secondary care,Z,,Not stated - HES patient table ethnicity 2001 census,Not stated,https://portal.caliberresearch.org/disease-or-syndrome
