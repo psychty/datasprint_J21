@@ -1,0 +1,37 @@
+read_code,read_code_desc,SNOMED_Code,SNOMED_Desc
+38G3,"Hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalized ratio, elderly over 65, and drugs/alcohol concomitantly bleeding risk score",704180000,"Hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalized ratio, elderly over 65, and drugs/alcohol concomitantly bleeding risk score (ob"
+662-2,Hypertension,,
+662c,Hypertension six month review,401048005,Hypertension six month review (procedure)
+662d,Hypertension annual review,401118009,Hypertension annual review (procedure)
+662F,Hypertension treatm. started,,
+662P,Hypertension monitoring,275944005,Hypertension monitoring (regime/therapy)
+68B4,Hypertension risk,,
+8I3N,Hypertension treatment refused,,
+9OD,Hypertension screen admin.,,
+9OI,Hypertension monitoring admin.,7.13641E+14,Hypertension monitoring administration (record artifact)
+9OI4,Hypertension monitoring first letter,185719002,Hypertension monitoring first letter (procedure)
+9OI4.,Hypertension monitoring first letter,185719002,Hypertension monitoring first letter
+9OI5,Hypertension monitoring second letter,185720008,Hypertension monitoring second letter (procedure)
+9OI7.,Hypertension monitoring verbal invite,185722000,Hypertension monitoring verbal invite
+9OI8,Hypertension monitoring telephone invite,185723005,Hypertension monitoring telephone invite (procedure)
+9OI8.,Hypertension monitoring telephone invite,185723005,Hypertension monitoring telephone invite
+9OIA,Hypertension monitor.chck done,,
+9OIA-1,Hypertension monitored,,
+G2,Hypertension borderline,,
+G20,Hypertension,,
+G202,Hypertension,,
+G20z-1,Hypertension NOS,38341003,"Hypertensive disorder, systemic arterial (disorder)"
+G24z1,Hypertension secondary to drug,194791005,Hypertension caused by drug (disorder)
+G27,Hypertension resistant to drug therapy,,
+G2z,Hypertension,,
+L12,Hypertension complicating pregnancy/childbirth/puerperium,,
+,Hypertension mnitoring short msg service text msg 1st invitn,1.06695E+15,Hypertension monitoring short message service text message first invitation (procedure)
+,Hypertension monitoring invitation,310427004,Hypertension monitoring invitation (procedure)
+,Hypertension monitoring short message service text message first invitation (procedure),1.06695E+15,Hypertension monitoring short message service text message first invitation (procedure)
+,Hypertension monitoring SMS first invitation,1.06695E+15,Hypertension monitoring short message service text message first invitation (procedure)
+,Problems Reported: Hypertension,4.98521E+14,
+Xafj4,Hypertension mnitoring short msg service text msg 1st invitn,1.06695E+15,Hypertension monitoring SMS (short message service) text message first invitation
+XaIyE,Hypertension annual review,401118009,Hypertension annual review
+XE0Ub,Hypertension,38341003,Hypertensive disorder
+XE2NY,Hypertension monitoring admin.,7.13641E+14,Hypertension monitoring administration
+XM1YA,Hypertension monitoring,275944005,Hypertension monitoring

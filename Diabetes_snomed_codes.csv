@@ -1,0 +1,106 @@
+read_code,read_code_desc,SNOMED_Code,SNOMED_Desc
+66AU,Diabetes care by hospital only,NA,NULL
+1252,FH: Diabetes mellitus,160303001,Family history of diabetes mellitus
+1253,FH: Diabetes mellitus in first degree relative,416855002,Family history of diabetes mellitus in first degree relative (situation)
+6872,Diabetes mellitus screening,171183004,Diabetes mellitus screening
+21263,Diabetes resolved,NA,NULL
+1I0,Diabetes mellitus excluded,NA,NULL
+212H,Diabetes resolved,315051004,Diabetes resolved (finding)
+38Gj,QDiabetes (QDScore) type 2 diabetes 10 year risk,8.63521E+14,QDiabetes risk calculator score (observable entity)
+42W4,HbA1c level (Diabetes Control and Complications Trial aligned),1.01943E+15,Haemoglobin A1c level (Diabetes Control and Complications Trial aligned) (observable entity)
+661M4,Diabetes self-management plan agreed,8.11981E+14,Diabetes self-management plan agreed (finding)
+66A,Diabetes management plan given,170742000,Diabetic monitoring (regime/therapy)
+66An,Diabetes type 1 review,2.79291E+14,Diabetes type 1 review (regime/therapy)
+66Ao,Diabetes type 2 review,2.79321E+14,Diabetes type 2 review (regime/therapy)
+66AP,Diabetes: practice programme,170774007,Diabetes: practice program (finding)
+66AP.,Diabetes: practice programme,170774007,Diabetes: practice programme
+66AQ,Diabetes: shared care programme,170775008,Diabetes: shared care program (finding)
+66AQ.,Diabetes: shared care programme,170775008,Diabetes: shared care programme
+66AR,Diabetes management plan given,170742000,Diabetic monitoring (regime/therapy)
+66AS0,Diabetes Year of Care annual review,8.87861E+14,Diabetes Year of Care annual review (regime/therapy)
+8B3l,Diabetes medication review,394725008,Diabetes medication review (procedure)
+8CA41,Diabetes mellitus diet education,284350006,Diabetes mellitus diet education (procedure)
+8CR2,Diabetes clinical management plan,736284000,Diabetes clinical management plan (record artifact)
+8CS0,Diabetes care plan agreed,703040004,Agreeing on diabetes care plan (procedure)
+8I94,Diabetes structured education programme not available,8.85931E+14,Diabetes structured education programme not available (situation)
+8IE2,Diabetes care plan declined,7.87061E+14,Diabetes care plan declined (situation)
+9bJ,Diabetes Prevention,NA,NULL
+9NST,Not suitable for DESMOND (Diabetes Education and Self Management for Ongoing and Newly Diagnosed) programme,720504004,Not suitable for Diabetes Education and Self Management for Ongoing and Newly Diagnosed program (finding)
+9OL,Diabetes monitoring administration,7.13671E+14,Diabetes monitoring administration (record artifact)
+9OL-1,Diabetes clinic administration,7.13691E+14,Diabetes clinic administration (record artifact)
+9OL4,Diabetes monitoring 1st letter,185756006,Diabetes monitoring first letter (procedure)
+9OL4.,Diabetes monitoring first letter,185756006,Diabetes monitoring first letter
+9OL5,Diabetes monitoring second letter,185757002,Diabetes monitoring second letter (procedure)
+9OL6,Diabetes monitoring third letter,185758007,Diabetes monitoring third letter (procedure)
+9OL7,Diabetes monitor.verbal invite,185759004,Diabetes monitoring verbal invite (procedure)
+9OL7.,Diabetes monitoring verbal invite,185759004,Diabetes monitoring verbal invite
+9OL8,Diabetes monitoring telephone invite,185760009,Diabetes monitoring telephone invite (procedure)
+9OL8.,Diabetes monitoring telephone invite,185760009,Diabetes monitoring telephone invite
+9OLA,Diabetes monitoring check done,270445003,Diabetes monitoring check done (finding)
+9OLA-1,Diabetes monitored,270445003,Diabetes monitoring check done (finding)
+9OLF,Diabetes structured education programme completed,7.55491E+14,Diabetes structured education programme completed (situation)
+9OLM,Diabetes structured education programme declined,3.06591E+14,Diabetes structured education programme declined (situation)
+9OLN,Diabetes monitor invitation by SMS (short message service),705072004,Diabetes monitoring invitation by short message service text messaging (procedure)
+C10,Diabetes mellitus,73211009,Diabetes mellitus (disorder)
+C10..,Diabetes mellitus,73211009,Diabetes mellitus
+C101,Diabetes mellitus with ketoacidosis,420422005,Ketoacidosis due to diabetes mellitus (disorder)
+C101z,Diabetes mellitus NOS with ketoacidosis,NA,NULL
+C104z,Diabetes mellitus with nephropathy NOS,NA,NULL
+C106-2,Diabetes mellitus with neuropathy,NA,NULL
+C107-1,Diabetes mellitus with gangrene,NA,NULL
+C10F,Diabetes Type 2 - blood glucose management,NA,NULL
+C10P,Diabetes mellitus in remission,703136005,Diabetes mellitus in remission (disorder)
+C135,Diabetes insipidus,15771004,Diabetes insipidus (disorder)
+F4200,Diabetes Type 2 - retinopathy,NA,NULL
+L1808,Diabetes mellitus arising in pregnancy,NA,NULL
+M2711,Diabetes Type 1 and 2 - foot disease,NA,NULL
+NA,Diabetes care plan agreed,1.7129E+15,NA
+NA,Diabetes care planning test results sent to patient,1.7129E+15,NA
+NA,Diabetes monitoring 1st letter,1.7129E+15,NA
+NA,Diabetes monitoring 2nd letter,1.7129E+15,NA
+NA,Diabetes monitoring 3rd letter,1.7129E+15,NA
+NA,Diabetes monitoring admin.,1.7129E+15,NA
+NA,Diabetes monitoring admin.NOS,1.7129E+15,NA
+NA,Diabetes monitoring first letter,1.7129E+15,NA
+NA,Diabetes monitoring in secondary care,1.85665E+15,NA
+NA,Diabetes monitoring invitation,310425007,Diabetes monitoring invitation (procedure)
+NA,Diabetes monitoring short msg service text msg 1st invitaton,1.06691E+15,Diabetes monitoring short message service text message first invitation (procedure)
+NA,Diabetes monitoring SMS first invitation,1.06691E+15,Diabetes monitoring short message service text message first invitation (procedure)
+NA,Diabetes monitoring third letter,1.7129E+15,NA
+NA,Diabetes screening declined,1.23E+16,Diabetes screening declined (situation)
+NA,Diabetes Year of Care annual review,1.7129E+15,NA
+NA,Diabetes: shared care programme,1.7129E+15,NA
+NA,FH: Diabetes mellitus brother,9.58041E+14,NA
+NA,Problems Reported: B-12 and Pancreas and Diabetes test,4.98521E+14,NA
+NA,"Problems Reported: Depression, Diabetes, Ankle pain",1.7129E+15,NA
+NA,Problems Reported: Diabetes,4.98521E+14,NA
+NA,Problems Reported: Pancreas and Diabetes,4.98521E+14,NA
+NA,"Problems Reported: Shaking hands, Diabetes",4.98521E+14,NA
+NA,QDiabetes (QDScore) type 2 diabetes 10 year risk,1.71323E+15,NA
+NA,Reason for referral: Diabetes,1.77658E+15,NA
+NA,Referral to NHS Diabetes Prevention Programme,1.7129E+15,NA
+NA,Referred to Diabetes Service,1.77538E+15,NA
+NA,Unsuitable for NHS Diabetes Prevention Programme,1.9907E+15,NA
+Xa3ee,Diabetes with ketoacidosis - no coma,111556005,Diabetic ketoacidosis without coma
+Xaa0e,QDiabetes risk calculator,8.63501E+14,QDiabetes risk calculator
+Xaag1,Diabetes Year of Care annual review,8.87861E+14,Diabetes Year of Care annual review
+Xaagd,Diabetes mellitus in remission,NA,NULL
+XaCGh,Diabetes monitoring invitation,310425007,Diabetes monitoring invitation
+XaeDG,Referral to NHS Diabetes Prevention Programme declined,1.0253E+15,Referral to NHS Diabetes Prevention Programme declined
+XaeDH,Referral to NHS Diabetes Prevention Programme,1.02532E+15,Referral to NHS Diabetes Prevention Programme
+XaFsp,Diabetes resolved,NA,NULL
+XaFvt,Diabetes mellitus excluded,315216001,Diabetes mellitus excluded
+Xaglb,NHS Diabetes Prevention Programme invitation,1.0907E+15,NHS Diabetes Prevention Programme invitation
+XaIfM,Diabetes medication review,394725008,Diabetes medication review
+XaJSv,Diabetes key contact,408290003,Diabetes key contact
+XaKSn,Diabetes care plan agreed,703040004,Agreeing on diabetes care plan
+XaKYz,FH: Diabetes mellitus in first degree relative,416855002,Family history of diabetes mellitus in first degree relative
+XaMhJ,Diabetes type 1 review,2.79291E+14,Diabetes type 1 review
+XaMhK,Diabetes type II review,2.79321E+14,Diabetes type 2 review
+XaNTH,Diabetes structured education programme declined,3.06591E+14,Diabetes structured education programme declined
+XaX1n,Diabetes monitor invitation by SMS (short message service),705072004,Diabetes monitoring invitation by short message service text messaging
+XaXv9,Diabetes care plan declined,7.87061E+14,Diabetes care plan declined
+XaYbB,Diabetes self-management plan agreed,8.11981E+14,Diabetes self-management plan agreed
+XM1Rs,Diabetes clinic administration,7.13691E+14,Diabetes clinic administration
+Y2524,Diabetes Education Completed : Footcare,-1,NA
+ZV180,Family history: Diabetes mellitus,160303001,Family history of diabetes mellitus (situation)

@@ -1,0 +1,44 @@
+read_code,read_code_desc,SNOMED_Code,SNOMED_Desc
+142-1,H/O: cancer,266987004,History of malignant neoplasm (situation)
+1J0I,Suspected breast cancer,,
+8CAo,Patient given advice about bowel cancer,2.94411E+14,Patient given advice about bowel cancer (situation)
+8Hn2,Fast track referral for suspected breast cancer,2.76341E+14,Fast track referral for suspected breast cancer (procedure)
+8Hn4,Fast track referral for suspected colorectal cancer,2.76401E+14,Fast track referral for suspected colorectal cancer (procedure)
+9Np2,Seen in fast track suspected breast cancer clinic,3.82431E+14,Seen in fast track suspected breast cancer clinic (finding)
+9Np7,Seen in fast track suspected colorectal cancer clinic,3.82651E+14,Seen in fast track suspected colorectal cancer clinic (finding)
+B13,Malignant neoplasm of colon,363406005,Malignant neoplasm of colon (disorder)
+B13..,Malignant tumour of colon,,
+B132,Malignant neoplasm of descending colon,,
+B133,Malignant tumour of sigmoid colon,363410008,Malignant tumor of sigmoid colon (disorder)
+B134,Malignant tumour of caecum,363350007,Malignant tumor of cecum (disorder)
+B136,Malignant tumour of ascending colon,363412000,Malignant tumor of ascending colon (disorder)
+B13z,Malignant tumour of colon,,
+B141,Malignant neoplasm of rectum,363351006,Malignant tumor of rectum (disorder)
+B142,Malignant neoplasm of anal canal,,
+B143,Malignant neoplasm of anus unspecified,,
+B34,Malignant neoplasm of female breast,372064008,Malignant neoplasm of female breast (disorder)
+B34..,Malignant neoplasm of female breast,,
+B341,Malignant neoplasm of central part of female breast,,
+B343,Malignant neoplasm of lower-inner quadrant of female breast,,
+B344,Malignant neoplasm of upper-outer quadrant of female breast,188154003,Malignant neoplasm of upper-outer quadrant of female breast (disorder)
+B345,Malignant neoplasm of lower-outer quadrant of female breast,,
+B34z,Malignant neoplasm of female breast NOS,,
+B34z.,Malignant neoplasm of female breast NOS,,
+B35,Malignant neoplasm of male breast,,
+B36,Local recurrence of malignant tumour of breast,314955001,Local recurrence of malignant tumor of breast (disorder)
+B41,Malignant neoplasm of cervix uteri,,
+B41-1,Malignant tumour of cervix,363354003,Malignant tumor of cervix (disorder)
+B41z,Malignant neoplasm of cervix uteri NOS,,
+BB5R8,[M]Adenocarcinoid tumour,86293007,Adenocarcinoid tumor (morphologic abnormality)
+Byu6,Malignant tumour of breast,254837009,Malignant neoplasm of breast (disorder)
+,[RFC] Breast cancer,9.07341E+14,
+,Fast track referral for suspected breast cancer,1.7129E+15,
+,Fast track referral for suspected colorectal cancer,1.7129E+15,
+,Malignant tumour of caecum,363350007,Malignant tumor of cecum (disorder)
+,Malignant tumour of rectum,,
+,"Problems Reported: Shingles, Breast cancer patient",4.98521E+14,
+X78WM,Malignant tumour of breast,254837009,Malignant tumour of breast
+XaIIt,Suspected breast cancer,,
+XaMeC,Fast track referral for suspected breast cancer,2.76341E+14,Fast track referral for suspected breast cancer
+XaMeE,Fast track referral for suspected colorectal cancer,2.76401E+14,Fast track referral for suspected colorectal cance
+ZV16,Family history of cancer,275937001,Family history of cancer (situation)
