@@ -108,3 +108,61 @@ Hypertension_snomed_codes <- read_csv('https://raw.githubusercontent.com/psychty
 Cancer_readcodes <- read_csv('https://raw.githubusercontent.com/psychty/datasprint_J21/main/cancer_datasprint_readcodes.csv') 
 
 Cancer_snomed_codes <- read_csv('https://raw.githubusercontent.com/psychty/datasprint_J21/main/Cancer_snomed_codes.csv')
+
+
+
+# snippets ####
+
+# Themes ####
+ph_theme = function(){
+  theme( 
+    plot.title = element_text(colour = "#000000", face = "bold", size = 10),    
+    plot.subtitle = element_text(colour = "#000000", size = 10),
+    panel.grid.major.x = element_blank(), 
+    panel.grid.minor.x = element_blank(),
+    panel.background = element_rect(fill = "#FFFFFF"), 
+    panel.grid.major.y = element_line(colour = "#E7E7E7", size = .3),
+    panel.grid.minor.y = element_blank(), 
+    strip.text = element_text(colour = "#000000", size = 10, face = "bold"), 
+    strip.background = element_blank(), 
+    axis.ticks = element_line(colour = "#dbdbdb"), 
+    legend.position = "bottom", 
+    legend.title = element_text(colour = "#000000", size = 9, face = "bold"), 
+    legend.background = element_rect(fill = "#ffffff"), 
+    legend.key = element_rect(fill = "#ffffff", colour = "#ffffff"), 
+    legend.text = element_text(colour = "#000000", size = 9), 
+    axis.text.y = element_text(colour = "#000000", size = 8), 
+    axis.text.x = element_text(colour = "#000000", angle = 0, hjust = 1, vjust = .5, size = 8), 
+    axis.title =  element_text(colour = "#000000", size = 9, face = "bold"),   
+    axis.line = element_line(colour = "#dbdbdb")
+  ) 
+}
+
+
+## visualise the latest available time periods for each dataset
+ggplot(latest_gp_cluster_data,
+       aes(x = fct_rev(IndicatorName),
+           y = Timeperiod)) +
+  geom_tile(fill = "red") +
+  coord_flip() +
+  labs(title = "Latest period for each indicator", 
+       y = "Year", 
+       x = "") +
+  theme(axis.text = element_text(size = rel(.7)))
+
+
+
+
+# Missing data ####
+library(naniar)
+# naniar - imputation 
+
+
+# How much is missing
+summary(latest_gp_cluster_data) # This shows 153 datapoints missing, and this is 
+
+paste0(round(nrow(subset(latest_gp_cluster_data, is.na(Value))) / nrow(latest_gp_cluster_data) * 100, 3), '% of values are missing in this dataset.')
+
+# If there were missing values across different variables then using something like vis_miss would be helpful, but with less than .05% of values missing it does not show much.
+# vis_miss(latest_gp_cluster_data,
+# warn_large_data = FALSE)
